@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jack Sklover
 
-<!--
-**jhsklover/jhsklover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student in my junior year at John Jay College, and am also a second-degree student pursuing a career in technology. I am interested in data analytics and solving real-world problems to help companies and businesses maximize their effectiveness. I have experience working with AI integration tools including Hugging Face, Groq, and n8n, which I have used to create workflows and automate without using code.
 
-Here are some ideas to get you started:
+## Featured Project
+**Financial Fraud Detection System** — [One-sentence description: what business
+problem does it solve, who is it for?]
+- [Your component / your contribution in one sentence]
+- **Repository Link:** `https://github.com/jhsklover/ai-capstone-financial-fraud-detection-system`
+- **Component (Ingestion) Link:** `https://github.com/jhsklover/ai-capstone-financial-fraud-detection-system/tree/main/component-1-transaction-ingestion`
+- **Component (Dashboard) Link:** `https://github.com/jhsklover/ai-capstone-financial-fraud-detection-system/tree/main/component-4-dashboard`
+- **Demo Video:** `https://docs.google.com/videos/d/1nUdpPK07XQ4iTzXb-0nVqYDezkkCY1DumCLjdDmt9D4/edit?usp=sharing`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+- n8n
+- Groq
+- GitHub
+- Flowise
+- Airtable
+- Hugging Face
+
+## Currently Learning
+Data analytics tools to enhance my experience and build my portfolio.
+
+## Get in Touch
+- LinkedIn: `https://www.linkedin.com/in/jacksklover/`
+- Email: `jhsklover@gmail.com`
